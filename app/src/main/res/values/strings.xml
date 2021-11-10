@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">NewsApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <!-- String Fragemnt   -->
+    <string name="title_news">Roket Luar Angkasa Korsel Gagal Luncurkan Satelit ke Orbit</string>
+    <string name="Author">Siska Winda</string>
+    <string name="tanggal">Senin, 25 Maret 2021</string>
+    <string name="tv_author">Arif Syaefudin</string>
+    <string name="string">All news</string>
+    <string name="content_news">Image News</string>
+    <string name="content_img_news_detail">Imagae News Detail</string>
+    <string name="separate">|</string>
+</resources>
+
